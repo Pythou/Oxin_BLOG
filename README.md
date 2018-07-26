@@ -1,2 +1,3 @@
-# Oxin_BLOG
-A blog about pets
+# Introduction
+
+A Blog Based On Django!
