@@ -1,3 +1,3 @@
 # Introduction
 
-A Blog Based On Django!
+Blog: To be continued.
